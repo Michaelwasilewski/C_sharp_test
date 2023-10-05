@@ -1,0 +1,14 @@
+C:\Users\micha\workspace1\test\csharp_test\bin\Debug\net7.0\csharp_test.exe
+C:\Users\micha\workspace1\test\csharp_test\bin\Debug\net7.0\csharp_test.deps.json
+C:\Users\micha\workspace1\test\csharp_test\bin\Debug\net7.0\csharp_test.runtimeconfig.json
+C:\Users\micha\workspace1\test\csharp_test\bin\Debug\net7.0\csharp_test.dll
+C:\Users\micha\workspace1\test\csharp_test\bin\Debug\net7.0\csharp_test.pdb
+C:\Users\micha\workspace1\test\csharp_test\obj\Debug\net7.0\csharp_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\workspace1\test\csharp_test\obj\Debug\net7.0\csharp_test.AssemblyInfoInputs.cache
+C:\Users\micha\workspace1\test\csharp_test\obj\Debug\net7.0\csharp_test.AssemblyInfo.cs
+C:\Users\micha\workspace1\test\csharp_test\obj\Debug\net7.0\csharp_test.csproj.CoreCompileInputs.cache
+C:\Users\micha\workspace1\test\csharp_test\obj\Debug\net7.0\csharp_test.dll
+C:\Users\micha\workspace1\test\csharp_test\obj\Debug\net7.0\refint\csharp_test.dll
+C:\Users\micha\workspace1\test\csharp_test\obj\Debug\net7.0\csharp_test.pdb
+C:\Users\micha\workspace1\test\csharp_test\obj\Debug\net7.0\csharp_test.genruntimeconfig.cache
+C:\Users\micha\workspace1\test\csharp_test\obj\Debug\net7.0\ref\csharp_test.dll
